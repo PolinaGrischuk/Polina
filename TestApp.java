@@ -1,5 +1,7 @@
 package testapp;
-public class TestApp {
+import java.util.Scanner;
+public class TestApp
+{
 /**
 * @param args the command line arguments
 */
