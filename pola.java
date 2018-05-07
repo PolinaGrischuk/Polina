@@ -25,6 +25,7 @@ Kgfjhdrs
 dhtfykghk.lkuyjrtfjg
 
 public double getSum() {
+fgdfhhsjttt
 
 Лабораторна робота No2. Технології програмування
 return this.a+this.b;
