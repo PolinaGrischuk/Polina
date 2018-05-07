@@ -21,6 +21,8 @@ SimpleCalc(double p1,double p2) {
 this.a=p1;
 this.b=p2;
 }
+Kgfjhdrs 
+dhtfykghk.lkuyjrtfjg
 
 public double getSum() {
 
