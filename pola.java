@@ -14,5 +14,5 @@ return this.a+this.b;
 public double getSum() {
 return this.a+this.b;
 }
-
+System.out.println("a/b="+(sc.getDiv()));
 }
