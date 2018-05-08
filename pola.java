@@ -21,14 +21,8 @@ SimpleCalc(double p1,double p2) {
 this.a=p1;
 this.b=p2;
 }
-Kgfjhdrs 
-dhtfykghk.lkuyjrtfjg
-Dgkdhkkfkfk
 public double getSum() {
-fgdfhhsjttt
-
-Лабораторна робота No2. Технології програмування
 return this.a+this.b;
 }
-
+System.out.println("a/b="+(sc.getDiv()));
 }
