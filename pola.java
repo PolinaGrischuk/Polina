@@ -12,5 +12,5 @@ this.b=p2;
 public double getSum() {
 return this.a+this.b;
 }
-
+System.out.println("a*b="+(sc.getMult()));
 }
