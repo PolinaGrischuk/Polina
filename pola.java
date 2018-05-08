@@ -8,7 +8,6 @@ SimpleCalc(double p1,double p2) {
 this.a=p1;
 this.b=p2;
 }
-<<<<<<< HEAD
 
 public double getSum() {
 return this.a+this.b;
@@ -20,3 +19,4 @@ return this.a+this.b;
 System.out.println("a/b="+(sc.getDiv()));
 
 }
+gkggkgrdorgerobmv,dldg 
